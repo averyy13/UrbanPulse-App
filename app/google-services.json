@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545957326395",
+    "project_id": "urbanpulse-app",
+    "storage_bucket": "urbanpulse-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545957326395:android:48d848a160c085beff361e",
+        "android_client_info": {
+          "package_name": "com.aistudio.urbanpulse.xyzabc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7hCuJT3StKrzvVMb0dYxEsh8sVt1iOXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
